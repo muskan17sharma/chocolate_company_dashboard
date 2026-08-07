@@ -8,21 +8,16 @@ This project presents an interactive Power BI dashboard developed to analyze the
 
 ## Dataset Information
 
-**Dataset Name:** Chocolate Company Sales Dataset
+Dataset Name: **Chocolate Company Sales Dataset**
 
 ### Dataset Includes
-
-- Sales Transactions
-- Product Information
-- Customer Information
-- Salesperson Details
 - Geographic Information
-- Order Dates
+- Promotion Information
+- Product Information
+- Fact Sales Details
 - Gross Sales
-
-### Data Source
-
-Sample Chocolate Company Dataset
+- Channel
+- Dates 
 
 ---
 
