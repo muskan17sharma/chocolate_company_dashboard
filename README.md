@@ -43,21 +43,13 @@ Dataset Name: **Chocolate Company Sales Dataset**
 
 ---
 
-## Dashboard Preview
-
-### Main Dashboard
-
-![Dashboard](reports/dashboard.png)
-
----
-
 ## Dashboard Features
 
 - Interactive Filters
 - Product Analysis
 - Country-wise Sales
-- Salesperson Performance
-- Monthly Sales Trend
+- Promotion Performance
+- Year Wise Sales Trend
 - Dynamic KPI Cards
 
 ---
@@ -66,8 +58,8 @@ Dataset Name: **Chocolate Company Sales Dataset**
 
 - Gross sales distribution across different countries.
 - Best-selling chocolate products.
-- Highest-performing salespersons.
-- Monthly sales trends and seasonal performance.
+- Effect of Promotion.
+- Yearly sales trends and seasonal performance.
 - Regional contribution to total gross sales.
 
 ---
