@@ -34,6 +34,7 @@ Dataset Name: **Chocolate Company Sales Dataset**
 ## Key Performance Indicators (KPIs)
 
 - Gross Sales
+- Net Sales
 - Total Orders
 - Total Boxes Sold
 - Average Sales
