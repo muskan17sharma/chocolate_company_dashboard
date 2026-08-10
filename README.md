@@ -51,6 +51,7 @@ Dataset Name: **Chocolate Company Sales Dataset**
 - Country-wise Sales
 - Promotion Performance
 - Year Wise Sales Trend
+- forcasting ( prediction )
 - Dynamic KPI Cards
 
 ---
